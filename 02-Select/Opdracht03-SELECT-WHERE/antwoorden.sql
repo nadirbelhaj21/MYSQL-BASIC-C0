@@ -26,4 +26,5 @@ SELECT country, region FROM jaar2016 WHERE rank<="5"
 SELECT score FROM jaar2015 WHERE country="Ireland"
 
 -- Opdracht 10
+
 SELECT country FROM jaar2016 WHERE region="Latin America and Caribbean"
