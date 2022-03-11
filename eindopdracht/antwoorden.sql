@@ -41,4 +41,4 @@ DELETE FROM `videogamesales` WHERE publisher = 'Nintendo' AND genre = 'adventure
 DELETE FROM `videogamesales` WHERE Global_Sales < 10000 AND publisher = 'Nintendo'
 
 -- Opdracht 15
-DELETE FROM `videogamesales` WHERE year = 1997 AND NA_Sales > 200000
+DELETE FROM `videogamesales` WHERE year = 1997 AND NA_Sales > 200000 
