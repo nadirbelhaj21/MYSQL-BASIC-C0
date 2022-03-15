@@ -5,4 +5,4 @@ select * from players where id = "198329";
 delete from players where id = "198329";
 
 -- Opdracht 3
-delete from players where id = "199304";
+DELETE players where id = "199304";
